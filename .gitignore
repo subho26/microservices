@@ -26,3 +26,6 @@ hs_err_pid*
 Spring Cloud with Eureka/eureka-client/.idea/
 Spring Cloud with Eureka/eureka-host-server/.idea/
 Spring Cloud with Eureka/eureka-service/.idea/
+Spring Cloud with Eureka/eureka-client/target/
+Spring Cloud with Eureka/eureka-host-server/target/
+Spring Cloud with Eureka/eureka-service/target/
