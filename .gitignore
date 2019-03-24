@@ -23,3 +23,6 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 *.iml
+Spring Cloud with Eureka/eureka-client/.idea/
+Spring Cloud with Eureka/eureka-host-server/.idea/
+Spring Cloud with Eureka/eureka-service/.idea/
