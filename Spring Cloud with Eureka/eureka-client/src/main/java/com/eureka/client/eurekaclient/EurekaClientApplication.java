@@ -15,6 +15,7 @@ public class EurekaClientApplication {
     public static void main(String[] args) {
         SpringApplication.run(EurekaClientApplication.class, args);
     }
+	
 }
 
 /**Need to inject as we need to initialize it before the Eureka client gets registered and thus makes it available to
